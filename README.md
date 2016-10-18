@@ -1,1 +1,2 @@
-# wcc-day-one
+# Wands Coding Class
+## Day One
